@@ -1,0 +1,11 @@
+data/amazon_beauty_chunks.csv
+data/amazon_beauty_rag.csv
+vector_db/amazon_beauty_index.faiss
+vector_db/chunks_mapping.csv
+models/*.gguf
+
+# 其他忽略项
+*.log
+__pycache__/
+*.pyc
+.env
