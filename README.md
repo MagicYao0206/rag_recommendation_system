@@ -98,3 +98,6 @@ streamlit run app.py
 - 模型文件较大（约4GB），请确保有足够的存储空间
 - 首次运行时数据下载和向量库构建可能需要较长时间
 - 可根据硬件配置调整`llm_recommend.py`中的模型参数（如n_gpu_layers、n_threads）
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/608fcd13-addd-4c7c-8426-ce73f20ead4f" />
+
